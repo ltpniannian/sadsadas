@@ -1,0 +1,1 @@
+2021.09.17 11:34:23.842 ERROR - [MQTT Ping: CallbackClient] org.eclipse.paho.client.mqttv3.logging.JSR47Logger logToJsr47() : CallbackClient: Timed out as no activity, keepAlive=20,000,000,000 lastOutboundActivity=93,568,674,710,600 lastInboundActivity=93,556,900,035,700 time=93,588,675,773,200 lastPing=93,568,674,714,300
